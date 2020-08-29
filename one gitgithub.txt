@@ -5,3 +5,4 @@ membuat file baru
 membuat commit
 menambahkan editan baru
 melihat history
+melihat commit dalam visual di insigs network
