@@ -3,3 +3,4 @@ file baru
 jadi mempunyai dua branch
 berpindah branch di git disebut cekout
 membuat commit di branch baru
+menggabungkan branch baru ke master branch
