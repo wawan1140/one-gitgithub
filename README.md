@@ -1,2 +1,2 @@
 # one-gitgithub
-repository utnuk menyimban materi gib dan gibhub
+repository utnuk menyimpan materi gib dan gibhub
